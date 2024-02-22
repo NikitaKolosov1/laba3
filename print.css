@@ -1,7 +1,7 @@
 
 @media print {
     body {
-        font-size: 55px;
+        font-size: 14px;
         font-family: 'qRoboto', sans-serif !important;
     }
     .header {
